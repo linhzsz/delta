@@ -1,7 +1,7 @@
 # delta
 
 ggdrive-login
-https://drive.google.com/file/d/1CiLxHPwnYj6BedjyoOUPu2Dr0RkU1gRY/view?usp=sharing
+https://drive.google.com/file/d/1tXUclM5VsuvBHJkuYxa3z-N7jOKmWfb4/view?usp=sharing
 
 ggdrive-delta X VNG 
 https://drive.google.com/file/d/1JJkSy3f2P6GNCYZ9MmuT3vnxKipfR_QI/view?usp=sharing
