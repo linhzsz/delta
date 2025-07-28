@@ -1,11 +1,7 @@
 # delta
 
-ggdrive-login
-https://drive.google.com/file/d/1QXojpDx8_avT4Yz_w9FpeE5ZvxC3zoNv/view?usp=drive_link
-
-ggdrive-delta X VNG 
-https://drive.google.com/file/d/1JJkSy3f2P6GNCYZ9MmuT3vnxKipfR_QI/view?usp=sharing
-
+speedhubX 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 
 Thunder Z
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua'))()
